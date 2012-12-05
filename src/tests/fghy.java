@@ -14,7 +14,7 @@ public class fghy {
 		proc = new HttpCommandProcessor("localhost", 4444, "*chrome", "http://www.gorillalogic.com/");
 		selenium = new DefaultSelenium(proc);
 		selenium.start();
-		///////
+		///////test git hub
 		///////
 	}
 

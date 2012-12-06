@@ -15,7 +15,7 @@ public class fghy {
 		selenium = new DefaultSelenium(proc);
 		selenium.start();
 		///////test git hub
-		///////Fixed WEBAPPLICATION-469
+		///////Fixed WEBAPPLICATION-469 test
 	}
 
 	@After
